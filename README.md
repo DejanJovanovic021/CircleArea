@@ -1,4 +1,4 @@
-# CircleArea-Calc
+# CircleArea
 JavaScript
 
 
